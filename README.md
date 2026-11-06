@@ -29,6 +29,6 @@ El código siempre descarga la versión más reciente:
 
 Las actualizaciones llegan solas en *Ajustes → Actualizar Luvia*.
 
-## Licencia
+## Términos de uso
 
-Luvia Launcher se basa en Luma (licencia MIT). Ver [LICENSE](LICENSE).
+Luvia se instala y se usa bajo el propio riesgo de cada persona. Ver los [términos de uso](LICENSE).

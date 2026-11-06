@@ -1,7 +1,47 @@
-MIT License
+LUVIA LAUNCHER - TÉRMINOS DE USO
 
-Copyright (c) 2026 0xProbability (Luma)
-Copyright (c) 2026 molinishky (Luvia Launcher: TV en vivo con Xtream Codes, texto aumentado y traducción al español)
+Copyright (c) 2026 molinishky. Todos los derechos reservados.
+
+1. USO BAJO TU PROPIO RIESGO
+   Luvia Launcher se instala y se usa bajo la exclusiva responsabilidad de quien lo
+   instala. Antes de instalarlo, la persona usuaria acepta que lo hace por decisión
+   propia y bajo su propio riesgo.
+
+2. FUNCIONAMIENTO
+   Trabajamos para que Luvia funcione correctamente en televisores con Android TV y
+   Google TV, y corregimos los errores que se nos reportan. Aun así, Luvia se ofrece
+   "tal cual", sin garantías de ningún tipo, ni expresas ni implícitas, incluidas las
+   de que funcione en un modelo de TV en particular o sin interrupciones.
+
+3. SIN RESPONSABILIDAD POR DAÑOS
+   En ningún caso el creador de Luvia será responsable de daños, fallas o pérdidas
+   en la TV, en cualquier otro dispositivo, en los datos o en las cuentas de la
+   persona usuaria, ni de cualquier otro perjuicio que resulte de instalar, usar o
+   no poder usar Luvia.
+
+4. CONTENIDO
+   Luvia no incluye canales, películas ni series. Es un reproductor para la cuenta
+   Xtream o la lista M3U que cada persona contrata o agrega por su cuenta. Cada
+   persona es responsable de que el contenido que reproduce sea legal.
+
+5. LICENCIA DE PAGO
+   La activación pagada es para una sola TV, de por vida para esa TV, y no se puede
+   transferir a otra. Las donaciones voluntarias no activan la licencia.
+
+6. ACEPTACIÓN
+   Al instalar o usar Luvia Launcher aceptas estos términos.
+
+
+AVISOS DE SOFTWARE DE TERCEROS
+
+Luvia incluye componentes de código abierto. Sus licencias piden conservar los
+siguientes avisos sin cambios. Se aplican solo a esos componentes, no a Luvia en
+su conjunto.
+
+- Luma: widgets de la pantalla de inicio. Copyright (c) 2026 0xProbability.
+- QR Code generator library. Copyright (c) Project Nayuki.
+
+Ambos se distribuyen con la licencia MIT:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
